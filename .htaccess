@@ -1,0 +1,12 @@
+RewriteEngine On
+
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteCond %{REQUEST_FILENAME}\.php -f
+RewriteRule ^Home?$ index.php
+RewriteRule ^About-Me?$ about-us.php
+RewriteRule ^My-resume?$ resume.php
+RewriteRule ^services?$ services.php
+RewriteRule ^contact?$ contact-us.php
+
+RewriteCond %{REQUEST_FILENAME}.php -f
+RewriteRule !.*\.php$ %{REQUEST_FILENAME}.php [QSA,L]
