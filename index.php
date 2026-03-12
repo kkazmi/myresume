@@ -32,7 +32,8 @@ include_once('header.php');
                                     <div class="col-md-8 content-deta">
                                         <h2 class="iq-tw-8 ">Hello,<br>I Am Kashif Kazmi</h2>
                                         <div id="typer"></div>
-                                        <p class="lead iq-tw-4" align="justify">Web Developer with 3.3 years of experience in designing and developing user interfaces, testing, debugging and work on comapany websites,news portal E-commerce Web portal and blockchain technology. Proven ability in optimizing web functionality that improve data retrieval and workflow efficiencies.</p>
+                                        <p class="lead iq-tw-4" align="justify">I’m Kashif Kazmi, a Web Developer with 8.3 years of experience in designing and developing modern web applications. I have worked on company websites, news portals, e-commerce platforms, healthcare solutions, and blockchain-based applications.</p>
+                                        <p class="lead iq-tw-4" align="justify">I specialize in building user-friendly interfaces, optimizing web performance, and debugging applications to ensure smooth functionality and efficient data management. My focus is on delivering secure, scalable, and high-performance web solutions.</p>
                                         <a class="button iq-mt-30" href="images/kashif-resume.docx">Download my CV</a>
                                     </div>
                                 </div>
