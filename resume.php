@@ -66,12 +66,24 @@ include_once('header.php');
                                 <div class="col-md-6">
                                     <h3 class="title iq-tw-8">Experience</h3>
                                     <ul class="education">
+                                        <li>
+    <span></span>
+    <div>
+        <div class="lead iq-tw-6 iq-font-black">Software Engineer</div>
+        <div class="type iq-font-purple">DHS Arabia</div>
+        <div class="info">Worked at DHS Arabia from 12 November 2019 until March 2025 as a Software Engineer.</div>
+    </div> 
+    <span class="number">
+        <span>2025</span> 
+        <span style="margin-left: 50px;">2019</span>
+    </span>
+</li>
                                         <li><span></span>
                                             <div>
                                                 <div class="lead iq-tw-6 iq-font-black"> Web Developer</div>
                                                 <div class="type iq-font-purple">SWITZ GROUPS Pvt.Ltd.</div>
                                                 <div class="info">Working at SWITZ GROUPS private limited from 21 July 2018 till now as a Web Developer.</div>
-                                                </div> <span class="number"><span>Now</span> <span style=" margin-left: 50px;">2018</span></span>
+                                                </div> <span class="number"><span>12 Nov 2019</span> <span style=" margin-left: 50px;">2018</span></span>
                                         </li>
                                         <li><span></span>
                                             <div>
