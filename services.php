@@ -92,7 +92,7 @@ include_once('header.php');
                                 
                             </div>
                         </div>
-                        <!--<div class="customers grey-bg iq-pall-40 iq-mtb-50">
+                        <div class="customers grey-bg iq-pall-40 iq-mtb-50">
                             <div class="row iq-ptb-30">
                                 <div class="col-md-12">
                                     <h3 class="title iq-tw-8 iq-mt-0">Loved By My Customers</h3>
@@ -256,7 +256,7 @@ include_once('header.php');
                                     </div>
                                 </div>
                             </div>
-                        </div>-->
+                        </div>
                         <!-- Counter END -->
                     </div>
                 </div>

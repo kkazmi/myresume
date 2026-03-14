@@ -10,49 +10,25 @@
 
     <title>Kashif Kazmi</title>
 
-    <!-- Favicon -->
     <link rel="shortcut icon" href="images/favicon.png" />
-
-    <!-- Google Fonts -->
     <link href="https://fonts.googleapis.com/css?family=Open+Sans:400,600&amp;Raleway:400,500,600,700,800" rel="stylesheet">
 
-    <!-- Bootstrap CSS -->
     <link rel="stylesheet" type="text/css" href="css/bootstrap.min.css">
 
-    <!-- Themify Fonts -->
     <link rel="stylesheet" type="text/css" href="css/themify-icons.css">
 
-    <!-- Font Awesome -->
     <link rel="stylesheet" type="text/css" href="css/font-awesome.min.css">
-
-    <!-- Magnific Popup -->
     <link rel="stylesheet" type="text/css" href="css/magnific-popup/magnific-popup.css" />
-
-    <!-- owl-carousel -->
     <link rel="stylesheet" type="text/css" href="css/owl-carousel/owl.carousel.css" />
-
-    <!-- Style CSS -->
     <link rel="stylesheet" type="text/css" href="css/style.css">
-
-    <!-- Responsive CSS -->
     <link rel="stylesheet" type="text/css" href="css/responsive.css">
 
-    <!-- Style customizer (Remove these two lines please) -->
     <link rel="stylesheet" href="#" data-style="styles">
     <link rel="stylesheet" href="css/style-customizer.css" />
 
     <!-- custom style -->
     <link rel="stylesheet" href="css/custom.css" />
 
-    <!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-110149418-1"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'UA-110149418-1');
-</script>
 
 </head>
 
@@ -95,6 +71,9 @@
                                 </li>
                                 <li class="nav-item  <?php if($pagenameacco=='services.php'){echo 'active';}?>">
                                     <a class="nav-link" data-type="page-transition" href="services">Services</a>
+                                </li>
+                                  <li class="nav-item  <?php if($pagenameacco=='portfolio.php'){echo 'active';}?>">
+                                    <a class="nav-link" data-type="page-transition" href="services">Portfolio</a>
                                 </li>
                                
                                 <li class="nav-item  <?php if($pagenameacco=='contact-us.php'){echo 'active';}?>">

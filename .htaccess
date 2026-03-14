@@ -7,6 +7,7 @@ RewriteRule ^About-Me?$ about-us.php
 RewriteRule ^My-resume?$ resume.php
 RewriteRule ^services?$ services.php
 RewriteRule ^contact?$ contact-us.php
+RewriteRule ^portfolio?$ portfolio.php
 
 RewriteCond %{REQUEST_FILENAME}.php -f
 RewriteRule !.*\.php$ %{REQUEST_FILENAME}.php [QSA,L]
