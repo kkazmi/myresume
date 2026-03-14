@@ -73,7 +73,7 @@
                                     <a class="nav-link" data-type="page-transition" href="services">Services</a>
                                 </li>
                                   <li class="nav-item  <?php if($pagenameacco=='portfolio.php'){echo 'active';}?>">
-                                    <a class="nav-link" data-type="page-transition" href="services">Portfolio</a>
+                                    <a class="nav-link" data-type="page-transition" href="portfolio">Portfolio</a>
                                 </li>
                                
                                 <li class="nav-item  <?php if($pagenameacco=='contact-us.php'){echo 'active';}?>">

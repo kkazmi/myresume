@@ -100,42 +100,42 @@ include_once('header.php');
                                         <div class="item">
                                             <div class="iq-client white-bg">
                                                 <div class="client-img">
-                                                    <img alt="#" class="img-fluid" src="images/testimonial/01.jpg">
+                                                    <img alt="#" class="img-fluid" src="images/testimonial/01.png">
                                                 </div>
                                                 <div class="client-info">
                                                     <div class="client-name iq-mb-10">
-                                                        <h6 class="iq-tw-6">Jason Roi</h6>
-                                                        <span class="sub-title iq-tw-6">CEO, Profyl</span>
+                                                        <h6 class="iq-tw-6">Abhishek Singh</h6>
+                                                        <span class="sub-title iq-tw-6">Project Manager, Comfygen</span>
                                                     </div>
-                                                    <p>Lorem ipsum madolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor coli incididunt ut labore.</p>
+                                                    <p>Kashif is a highly skilled web developer who understands both design and functionality. He built our web application exactly as planned and even suggested improvements that made the platform better.</p>
                                                 </div>
                                             </div>
                                         </div>
                                         <div class="item">
                                             <div class="iq-client white-bg">
                                                 <div class="client-img">
-                                                    <img alt="#" class="img-fluid" src="images/testimonial/02.jpg">
+                                                    <img alt="#" class="img-fluid" src="images/testimonial/02.png">
                                                 </div>
                                                 <div class="client-info">
                                                     <div class="client-name iq-mb-10">
-                                                        <h6 class="iq-tw-6">Rinks Adams</h6>
-                                                        <span class="sub-title iq-tw-6">CEO, Profyl</span>
+                                                        <h6 class="iq-tw-6">Inzamamul Hassan</h6>
+                                                        <span class="sub-title iq-tw-6">CEO | Sr. Software Engineer | logiclump</span>
                                                     </div>
-                                                    <p>Lorem ipsum madolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor coli incididunt ut labore.</p>
+                                                    <p>Not only did Kashif build our website, but he also provides excellent support and maintenance. Any updates or improvements are handled quickly and efficiently.</p>
                                                 </div>
                                             </div>
                                         </div>
                                         <div class="item">
                                             <div class="iq-client white-bg">
                                                 <div class="client-img">
-                                                    <img alt="#" class="img-fluid" src="images/testimonial/03.jpg">
+                                                    <img alt="#" class="img-fluid" src="images/testimonial/03.png">
                                                 </div>
                                                 <div class="client-info">
                                                     <div class="client-name iq-mb-10">
-                                                        <h6 class="iq-tw-6">John Deo</h6>
-                                                        <span class="sub-title iq-tw-6">CEO, Profyl</span>
+                                                        <h6 class="iq-tw-6">Radi (Abu Amir) Hamad</h6>
+                                                        <span class="sub-title iq-tw-6">Executive Vice President of Operations | DHS Arabia</span>
                                                     </div>
-                                                    <p>Lorem ipsum madolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor coli incididunt ut labore.</p>
+                                                    <p>Kashif Kazmi developed our healthcare website with great professionalism. The platform is secure, responsive, and easy for patients to use. His experience in web development really shows in the final product.</p>
                                                 </div>
                                             </div>
                                         </div>
@@ -155,9 +155,7 @@ include_once('header.php');
                                         <div class="item"> <img class="img-responsive center-block" src="images/clients/05.png" alt="#"></div>
                                         <div class="item"> <img class="img-responsive center-block" src="images/clients/06.png" alt="#"></div>
                                         <div class="item"> <img class="img-responsive center-block" src="images/clients/07.png" alt="#"></div>
-                                        <div class="item"> <img class="img-responsive center-block" src="images/clients/01.png" alt="#"></div>
-                                        <div class="item"> <img class="img-responsive center-block" src="images/clients/02.png" alt="#"></div>
-                                    </div>
+                                       </div>
                                 </div>
                             </div>
                         </div>
